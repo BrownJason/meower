@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+}
+
+.mew-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mews {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mew {
+    border: 1px solid lightgray;
+    box-shadow: 0px 10px 10px 0px lightgray;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+.mew h3,
+p {
+    padding: 10px;
+    margin: 0 auto;
+}
+
+small {
+    display: flex;
+    justify-content: flex-end;
+    color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}
